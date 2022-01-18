@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheFoolOrpheus, otherwise known as Ashlee.
 - 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning AWS and more Spring!
+- 🌱 I’m currently learning Python, machine learning, and data science!
 - 💞️ I’m not currently looking to collaborate, sorry!
 - 📫 How to reach me: email me! My address is 16de0991@opayq.com
 
